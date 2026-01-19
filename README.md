@@ -27,7 +27,7 @@ For further information, please contact: Matti La Mela, matti.lamela (at) abm.uu
 
 * La Mela M. 2020. Tracing the emergence of Nordic allemansrätten through digitised parliamentary sources. In M. Fridlund, M. Oiva, & P. Paju (Eds), Digital histories: Emergent approaches within the new digital history. Helsinki: Helsinki University Press, 181–197. [https://doi.org/10.33134/HUP-5-11](https://doi.org/10.33134/HUP-5-11)
 
-* La Mela M., Tamper M., Kettunen K. 2019. Finding Nineteenth-century Berry Spots: Recognizing and Linking Place Names in a Historical Newspaper Berry-picking Corpus. Proceedings of the 4th Conference of the Association Digital Humanities in the Nordic Countries, Copenhagen, March 6–8, 2019. CEUR Workshop Proceedings 2364, 295–307. [http://ceur-ws.org/Vol-2364/](http://ceur-ws.org/Vol-2364/)
+* La Mela M., Tamper M., Kettunen K. 2019. Finding Nineteenth-century Berry Spots: Recognizing and Linking Place Names in a Historical Newspaper Berry-picking Corpus. Digital Humanities in the Nordic and Baltic Countries Publications 2 (1): 295-307 [https://doi.org/10.5617/dhnbpub.11104](https://doi.org/10.5617/dhnbpub.11104)
 
 * La Mela M. 2016. The Politics of property in a European periphery: The ownership of books, berries, and patents in the Grand Duchy of Finland 1850–1910. PhD Thesis. Department of History and Civilization, European University Institute, 7 November 2016, 1-304. [https://doi.org/10.2870/604750](https://doi.org/10.2870/604750)
 
