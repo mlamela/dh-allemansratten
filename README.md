@@ -1,6 +1,6 @@
 # Making public property: a Digital history of allemansrätten in Sweden and Finland, 1880–1950
 
-![Patent no. 4243 "berry-picking apparatus" (Finnish patent no. 4243 granted to Anders Wikstrand, 11/1910)](image01.png)
+![Patent no. 4243 "berry-picking apparatus" (Finnish patent no. 4243 granted to Anders Wikstrand, 11/1910)](image_01.png)
 
 The project studies the roots of the Nordic allemansrätten, a right of public access to nature. Despite allemansrätten’s role today as a constitutional principle, a building block of Nordic identity, and a slogan for country branding, This project fills the gap and examines the diverse perceptions, local conflicts, and future visions about the use and access to non-timber nature (wild berries and mushrooms) in Sweden and Finland in 1880-1950, a period before the term “allemansrätten” was commonly used. The project challenges today’s interpretation of a traditional allemansrätten and sheds light on the conflicts, structural inequalities, and differences in conceptual trajectories in making this public property in the two countries. Methodologically, the project combines computational analysis of bilingual textual corpora (parliamentary sources, newspapers) with the use of archival material (court cases, association sources). The project collaborates on the digitisation of the minutes of the Finnish Diet of Estates with the SWERIK (Swedish Riksdag 1867–2022) research project.
 
