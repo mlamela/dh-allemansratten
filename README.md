@@ -11,7 +11,7 @@ The project studies the roots of the Nordic allemansrätten, a right of public a
 
 The project is funded by Vetenskapsrådet (2024-02209).
 
-For further information, please contact: Matti La Mela, matti.lamela (at) abm.uu.se
+For further information, please contact the project PI: Matti La Mela, Department of ALM, Uppsala University: [UU webpage](https://www.uu.se/en/contact-and-organisation/staff?query=N20-65), email: matti.lamela (at) abm.uu.se 
 
 ## Project presentations:
 
