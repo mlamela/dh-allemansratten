@@ -1,5 +1,6 @@
-# dh-allemansratten
-Making public property: a Digital history of allemansrätten in Sweden and Finland, 1880–1950
+# Making public property: a Digital history of allemansrätten in Sweden and Finland, 1880–1950
+
+![Alt text](image01.jpg)
 
 The project studies the roots of the Nordic allemansrätten, a right of public access to nature. Despite allemansrätten’s role today as a constitutional principle, a building block of Nordic identity, and a slogan for country branding, This project fills the gap and examines the diverse perceptions, local conflicts, and future visions about the use and access to non-timber nature (wild berries and mushrooms) in Sweden and Finland in 1880-1950, a period before the term “allemansrätten” was commonly used. The project challenges today’s interpretation of a traditional allemansrätten and sheds light on the conflicts, structural inequalities, and differences in conceptual trajectories in making this public property in the two countries. Methodologically, the project combines computational analysis of bilingual textual corpora (parliamentary sources, newspapers) with the use of archival material (court cases, association sources). The project collaborates on the digitisation of the minutes of the Finnish Diet of Estates with the SWERIK (Swedish Riksdag 1867–2022) research project.
 
@@ -7,7 +8,7 @@ The project is funded by Vetenskapsrådet (2024-02209).
 
 For all information, please contact matti.lamela (at) abm.uu.se
 
-##Project presentations:
+## Project presentations:
 
 La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of nature use in Sweden and Finland in the early twentieth century" ESSHC 2025 conference, Leiden, 28 March 2025. (presentation slides)
 
@@ -15,7 +16,7 @@ La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of
 
 
 
-##Previous publications about allemansrätten:
+## Previous publications about allemansrätten:
 
 o La Mela M. and Vats E. Automatic classification of historical texts using a BERT model: news about wild berries, 1860-1910 (short paper). Book of Abstracts, DH Benelux 2023, May 31-2 June, Brussels, Belgium. https://doi.org/10.5281/zenodo.7990442. 
 
