@@ -21,13 +21,13 @@ For further information, please contact: Matti La Mela, matti.lamela (at) abm.uu
 
 ## Previous publications on allemansrätten:
 
-* La Mela M. and Vats E. Automatic classification of historical texts using a BERT model: news about wild berries, 1860-1910 (short paper). Book of Abstracts, DH Benelux 2023, May 31-2 June, Brussels, Belgium. [https://doi.org/10.5281/zenodo.7990442](https://doi.org/10.5281/zenodo.7990442)
+* La Mela M. and Vats E. 2023. Automatic classification of historical texts using a BERT model: news about wild berries, 1860-1910 (short paper). Book of Abstracts, DH Benelux 2023, May 31-2 June, Brussels, Belgium. [https://doi.org/10.5281/zenodo.7990442](https://doi.org/10.5281/zenodo.7990442)
 
 * Kettunen K., La Mela M. 2022. Semantic tagging and the Nordic tradition of Everyman’s rights. Digital Scholarship in the Humanities, 37(2), 483–496. [https://doi.org/10.1093/llc/fqab052](https://doi.org/10.1093/llc/fqab052)
 
 * La Mela M. 2020. Tracing the emergence of Nordic allemansrätten through digitised parliamentary sources. In M. Fridlund, M. Oiva, & P. Paju (Eds), Digital histories: Emergent approaches within the new digital history. Helsinki: Helsinki University Press, 181–197. [https://doi.org/10.33134/HUP-5-11](https://doi.org/10.33134/HUP-5-11)
 
-* La Mela M., Tamper M., Kettunen K. 2019. Finding Nineteenth-century Berry Spots: Recognizing and Linking Place Names in a Historical Newspaper Berry-picking Corpus. Proceedings of the 4th Conference of the Association Digital Humanities in the Nordic Countries, Copenhagen, March 6–8, 2019. CEUR Workshop Proceedings 2364, 295–307. http://ceur-ws.org/Vol-2364/](http://ceur-ws.org/Vol-2364/)
+* La Mela M., Tamper M., Kettunen K. 2019. Finding Nineteenth-century Berry Spots: Recognizing and Linking Place Names in a Historical Newspaper Berry-picking Corpus. Proceedings of the 4th Conference of the Association Digital Humanities in the Nordic Countries, Copenhagen, March 6–8, 2019. CEUR Workshop Proceedings 2364, 295–307. [http://ceur-ws.org/Vol-2364/](http://ceur-ws.org/Vol-2364/)
 
 * La Mela M. 2016. The Politics of property in a European periphery: The ownership of books, berries, and patents in the Grand Duchy of Finland 1850–1910. PhD Thesis. Department of History and Civilization, European University Institute, 7 November 2016, 1-304. [https://doi.org/10.2870/604750](https://doi.org/10.2870/604750)
 
