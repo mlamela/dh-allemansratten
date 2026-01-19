@@ -2,6 +2,7 @@
 ## A Digital history of allemansrätten in Sweden and Finland, 1880–1950
 
 !["Berry-picking apparatus" (Finnish patent no. 4243 granted to Anders Wikstrand, 11/1910)](image_01.png)
+
 *"Berry-picking apparatus" (Finnish patent no. 4243 granted to Anders Wikstrand, 11/1910)*
 
 ---
