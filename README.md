@@ -1,7 +1,7 @@
 # Making public property
 ## A Digital history of allemansrätten in Sweden and Finland, 1880–1950
 
-!["Berry-picking apparatus" (Finnish patent no. 4243 granted to Anders Wikstrand, 11/1910)](image_01.png)
+!["Berry-picking apparatus" (Finnish patent no. 4243 granted to Anders Wikstrand, 11/1910)](./public/image_01.png)
 
 *"Berry-picking apparatus" (Finnish patent no. 4243 granted to Anders Wikstrand, 11/1910)*
 
@@ -15,7 +15,7 @@ For further information, please contact: Matti La Mela, matti.lamela (at) abm.uu
 
 ## Project presentations:
 
-* La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of nature use in Sweden and Finland in the early twentieth century" ESSHC 2025 conference, Leiden, 28 March 2025. (presentation slides)
+* La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of nature use in Sweden and Finland in the early twentieth century" ESSHC 2025 conference, Leiden, 28 March 2025. [Presentation slides as pdf](./public/ESSHC2025-mlm-AMR-20250328.pdf)
 
 * Interview: Charlie Olofsson: "Forskare skriver allemansrättens historia", Tidningen Extrakt (27 maj 2025). [https://www.extrakt.se/forskare-skriver-allemansrattens-historia/](https://www.extrakt.se/forskare-skriver-allemansrattens-historia/)
 
