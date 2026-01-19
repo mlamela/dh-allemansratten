@@ -17,7 +17,7 @@ For further information, please contact: Matti La Mela, matti.lamela (at) abm.uu
 
 * La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of nature use in Sweden and Finland in the early twentieth century" ESSHC 2025 conference, Leiden, 28 March 2025. (presentation slides)
 
-* Interview: "Forskare skriver allemansrättens historia", Tidningen Extrakt (Charlie Olofsson). [https://www.extrakt.se/forskare-skriver-allemansrattens-historia/](https://www.extrakt.se/forskare-skriver-allemansrattens-historia/)
+* Interview: Charlie Olofsson: "Forskare skriver allemansrättens historia", Tidningen Extrakt (27 maj 2025). [https://www.extrakt.se/forskare-skriver-allemansrattens-historia/](https://www.extrakt.se/forskare-skriver-allemansrattens-historia/)
 
 ## Previous publications on allemansrätten:
 
