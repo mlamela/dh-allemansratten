@@ -19,6 +19,8 @@ For further information, please contact: Matti La Mela, matti.lamela (at) abm.uu
 
 * Interview: Charlie Olofsson: "Forskare skriver allemansrättens historia", Tidningen Extrakt (27 maj 2025). [https://www.extrakt.se/forskare-skriver-allemansrattens-historia/](https://www.extrakt.se/forskare-skriver-allemansrattens-historia/)
 
+* La Mela 2024: A talk at the IHR Digital History Seminar: "Accessing nature before “allemansrätten”? Using computational text analysis to study a tradition before it was named", [https://www.youtube.com/watch?v=8rPYmtsYXDg](https://www.youtube.com/watch?v=8rPYmtsYXDg) (21 May 2024)
+
 ## Previous publications on allemansrätten:
 
 * La Mela M. and Vats E. 2023. Automatic classification of historical texts using a BERT model: news about wild berries, 1860-1910 (short paper). Book of Abstracts, DH Benelux 2023, May 31-2 June, Brussels, Belgium. [https://doi.org/10.5281/zenodo.7990442](https://doi.org/10.5281/zenodo.7990442)
@@ -27,13 +29,13 @@ For further information, please contact: Matti La Mela, matti.lamela (at) abm.uu
 
 * La Mela M. 2020. Tracing the emergence of Nordic allemansrätten through digitised parliamentary sources. In M. Fridlund, M. Oiva, & P. Paju (Eds), Digital histories: Emergent approaches within the new digital history. Helsinki: Helsinki University Press, 181–197. [https://doi.org/10.33134/HUP-5-11](https://doi.org/10.33134/HUP-5-11)
 
-* La Mela M., Tamper M., Kettunen K. 2019. Finding Nineteenth-century Berry Spots: Recognizing and Linking Place Names in a Historical Newspaper Berry-picking Corpus. Digital Humanities in the Nordic and Baltic Countries Publications 2 (1): 295-307 [https://doi.org/10.5617/dhnbpub.11104](https://doi.org/10.5617/dhnbpub.11104)
+* La Mela M., Tamper M., Kettunen K. 2019. Finding Nineteenth-century Berry Spots: Recognizing and Linking Place Names in a Historical Newspaper Berry-picking Corpus. Digital Humanities in the Nordic and Baltic Countries Publications 2 (1): 295-307. [https://doi.org/10.5617/dhnbpub.11104](https://doi.org/10.5617/dhnbpub.11104)
 
 * La Mela M. 2016. The Politics of property in a European periphery: The ownership of books, berries, and patents in the Grand Duchy of Finland 1850–1910. PhD Thesis. Department of History and Civilization, European University Institute, 7 November 2016, 1-304. [https://doi.org/10.2870/604750](https://doi.org/10.2870/604750)
 
 * La Mela M. 2014. Property rights in conflict: wild berry-picking and the Nordic tradition of allemansrätt. Scandinavian Economic History Review, 62(3), 266–289. DOI: http://doi.org/10.1080/03585522.2013.876928 [https://doi.org/10.1080/03585522.2013.876928](https://doi.org/10.1080/03585522.2013.876928)
 
-* La Mela 2024: A talk at the IHR Digital History Seminar: "Accessing nature before “allemansrätten”? Using computational text analysis to study a tradition before it was named", [https://www.youtube.com/watch?v=8rPYmtsYXDg](https://www.youtube.com/watch?v=8rPYmtsYXDg) (21 May 2024)
+
 
 
 
