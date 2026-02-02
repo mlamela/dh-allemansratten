@@ -15,7 +15,9 @@ For further information, please contact the project PI: Matti La Mela, Departmen
 
 ## Project presentations:
 
-* La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of nature use in Sweden and Finland in the early twentieth century" ESSHC 2025 conference, Leiden, 28 March 2025. [Presentation slides as pdf](./public/ESSHC2025-mlm-AMR-20250328.pdf)
+* La Mela, M. 2026. "Building the Finnish Diet of Estates (1863-1906) debates and members dataset: A collaboration across infrastructure and research", DHNB 2026 workshop "Infrastructures to reassemble data scattered across domains, borders and media: an encounter between researchers and memory organisations" (10 March 2026).
+
+* La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of nature use in Sweden and Finland in the early twentieth century", ESSHC 2025 conference, Leiden, 28 March 2025. [Presentation slides as pdf](./public/ESSHC2025-mlm-AMR-20250328.pdf)
 
 * Interview: Charlie Olofsson: "Forskare skriver allemansrättens historia", Tidningen Extrakt (27 maj 2025). [https://www.extrakt.se/forskare-skriver-allemansrattens-historia/](https://www.extrakt.se/forskare-skriver-allemansrattens-historia/)
 
