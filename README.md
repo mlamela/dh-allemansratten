@@ -19,7 +19,9 @@ For further information, please contact the project PI: Matti La Mela, Departmen
 
 * La Mela, M. 2025. "Accessing nature before "allemansrätten"? Digital history of nature use in Sweden and Finland in the early twentieth century", ESSHC 2025 conference, Leiden, 28 March 2025. [Presentation slides as pdf](./public/ESSHC2025-mlm-AMR-20250328.pdf)
 
-* Interview: Charlie Olofsson: "Forskare skriver allemansrättens historia", Tidningen Extrakt (27 maj 2025). [https://www.extrakt.se/forskare-skriver-allemansrattens-historia/](https://www.extrakt.se/forskare-skriver-allemansrattens-historia/)
+* Interview: Charlie Olofsson: "Forskare skriver allemansrättens historia", Tidningen Extrakt (27 May 2025). [https://www.extrakt.se/forskare-skriver-allemansrattens-historia/](https://www.extrakt.se/forskare-skriver-allemansrattens-historia/)
+
+* Interview: Pauline Josephson: "Allemansrätten – så in i norden", Icakuriren (21 November 2025).
 
 * La Mela 2024: A talk at the IHR Digital History Seminar: "Accessing nature before “allemansrätten”? Using computational text analysis to study a tradition before it was named", [https://www.youtube.com/watch?v=8rPYmtsYXDg](https://www.youtube.com/watch?v=8rPYmtsYXDg) (21 May 2024)
 
