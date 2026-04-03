@@ -7,7 +7,7 @@
 
 ---
 
-### -> -> The project is a hiring a 2-year postdoc in digital humanities: [https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=921843](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=921843)
+### -> -> The project is a hiring a 2-year postdoc in digital humanities (DL 12 May): [https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=921843](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=921843)
 
 This research project studies the roots of the Nordic allemansrätten, a right of public access to nature. Despite allemansrätten’s role today as a constitutional principle, a building block of Nordic identity, and a slogan for country branding, its historical development remains poorly and is often presented as a continuous tradition. This project addresses this gap and examines the diverse perceptions, local conflicts, and future visions about the use and access to non-timber nature (wild berries and mushrooms) in Sweden and Finland in 1880-1950, a period before the term “allemansrätten” was commonly used. The project investigates how open access to natural resources developed in parallel with their increasing commodification, and how such access was justified. The project critically reassesses today’s interpretation of a traditional allemansrätten and sheds light on the conflicts, structural inequalities, and differences in conceptual trajectories that have shaped the emergence of this form of public property in the two countries.
 
